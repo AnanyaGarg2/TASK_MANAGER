@@ -158,20 +158,6 @@ GROQ_API_KEY=your_groq_api_key
 * Mobile application support
 
 ---
-
-## 👨‍💻 Developer
-
-**Roshan Ahire**
-
-Computer Engineering Student passionate about:
-
-* Full Stack Development
-* Artificial Intelligence
-* Machine Learning
-* Problem Solving
-
----
-
 ## ⭐ Support
 
 If you found this project useful, consider giving it a star on GitHub.
